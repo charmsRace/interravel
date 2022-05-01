@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "name": "interravel",
+      "path": "../"
+    }
+  ],
+
+  "settings": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    },
+    "prettier.configPath": "./.prettierrc",
+
+    // "typescript.preferences.importModuleSpecifier": "non-relative",
+    // "typescript.suggest.paths": true,
+    "typescript.tsdk": "./node_modules/typescript/lib"
+  }
+}
